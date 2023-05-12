@@ -1,0 +1,12 @@
+D:\Agustina\UNJU\APU\LPOOI\TRABAJOS-PRACTICOS\TP2\lpoo1_grupo_15\lpoo1_grupo_15\ClasesBase\bin\Debug\ClasesBase.dll
+D:\Agustina\UNJU\APU\LPOOI\TRABAJOS-PRACTICOS\TP2\lpoo1_grupo_15\lpoo1_grupo_15\ClasesBase\bin\Debug\ClasesBase.pdb
+D:\Agustina\UNJU\APU\LPOOI\TRABAJOS-PRACTICOS\TP2\lpoo1_grupo_15\lpoo1_grupo_15\ClasesBase\obj\Debug\ClasesBase.dll
+D:\Agustina\UNJU\APU\LPOOI\TRABAJOS-PRACTICOS\TP2\lpoo1_grupo_15\lpoo1_grupo_15\ClasesBase\obj\Debug\ClasesBase.pdb
+D:\Agustina\UNJU\APU\LPOOI\TRABAJOS-PRACTICOS\TP2\lpoo1_grupo_15\lpoo1_grupo_15\ClasesBase\bin\Debug\ClasesBase.dll.config
+D:\Agustina\UNJU\APU\LPOOI\TRABAJOS-PRACTICOS\TP2\lpoo1_grupo_15\lpoo1_grupo_15\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+D:\Agustina\UNJU\APU\LPOOI\TRABAJOS-PRACTICOS\TP3\lpoo1_grupo_15_tp3\ClasesBase\bin\Debug\ClasesBase.dll.config
+D:\Agustina\UNJU\APU\LPOOI\TRABAJOS-PRACTICOS\TP3\lpoo1_grupo_15_tp3\ClasesBase\bin\Debug\ClasesBase.dll
+D:\Agustina\UNJU\APU\LPOOI\TRABAJOS-PRACTICOS\TP3\lpoo1_grupo_15_tp3\ClasesBase\bin\Debug\ClasesBase.pdb
+D:\Agustina\UNJU\APU\LPOOI\TRABAJOS-PRACTICOS\TP3\lpoo1_grupo_15_tp3\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+D:\Agustina\UNJU\APU\LPOOI\TRABAJOS-PRACTICOS\TP3\lpoo1_grupo_15_tp3\ClasesBase\obj\Debug\ClasesBase.dll
+D:\Agustina\UNJU\APU\LPOOI\TRABAJOS-PRACTICOS\TP3\lpoo1_grupo_15_tp3\ClasesBase\obj\Debug\ClasesBase.pdb
